@@ -1,0 +1,14 @@
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\bin\Debug\net8.0\PredioXYZ.exe
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\bin\Debug\net8.0\PredioXYZ.deps.json
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\bin\Debug\net8.0\PredioXYZ.runtimeconfig.json
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\bin\Debug\net8.0\PredioXYZ.dll
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\bin\Debug\net8.0\PredioXYZ.pdb
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.AssemblyInfoInputs.cache
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.AssemblyInfo.cs
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.csproj.CoreCompileInputs.cache
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.dll
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\refint\PredioXYZ.dll
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.pdb
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\PredioXYZ.genruntimeconfig.cache
+C:\Faculdade\POO - 1\PredioXYZ\PredioXYZ\obj\Debug\net8.0\ref\PredioXYZ.dll
